@@ -21,7 +21,7 @@ class AlertPage extends StatelessWidget {
                 SizedBox(
                   height: 10.0,
                 ),
-                Text("Descripción del Alert")
+                Text("Descripción del ")
               ],
             ),
             actions: [
